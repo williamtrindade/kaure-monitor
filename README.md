@@ -1,5 +1,5 @@
 # Kaure AI Monitor
-![logo.png](assets/logo.png)
+<img src="assets/logo.png" alt="kaure Logo" width="300" />
 
 # kaure-monitor
 
